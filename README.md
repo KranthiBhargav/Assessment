@@ -1,6 +1,6 @@
 # Assessment
 
-**Steps: **
+**Steps:**
 
 created a maven project
 
@@ -13,7 +13,7 @@ so, I've added my 2 files into the directory (Sheet1_Veeva & Sheet2_Veeva).
 within my src/java/test- it has the actual script to compare the files. 
 
 
-**Many thanks :) **
+**Many thanks :)**
 
 
 
